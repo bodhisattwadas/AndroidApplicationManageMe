@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ManagMe</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="string_one">When you need instant confidential texted advice - a 
+        secret discussion with a selectable group of friends \n that
+		deletes forever - use \n ManagMe</string>
+    <string name="string_two">Import your contacts</string>
+    <string name="string_three">Arrange them in groups</string>
+    <string name="string_four">Communicate with a group using secret group chat</string>
+    <string name="string_five">Permanently delete the chat \n when it\'s finished</string>
+    <string name="title_activity_instructions">Instructions</string>
+
+</resources>
